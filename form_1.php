@@ -22,7 +22,8 @@
 		<p><label>Gender: </label> 
 		<input type="radio" name="gen" value="Male" checked /> Male 
 		<input type="radio" name="gen" value="Female"/> Female </p>
-		<p><input type="submit" name="btn1" value="Submit" /></p>	
+		<p><input type="submit" name="btn1" value="Submit" /></p>
+		<p><label>Success..!</label></p>
 
 	</form>
 </body>
